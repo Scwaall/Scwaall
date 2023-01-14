@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+I am a back-end developer specialized in PrestaShop modules and connections with APIs.
+
+### Languages
+
+- PHP (main)
+- JavaScript (vanilla)
+- HTML
+- CSS
+
+### Frameworks
+
+- Symfony (PHP)
+
+### CMS
+
+- PrestaShop
+- WordPress
+- Magento (I hate it)
+- Sylius (based on Symfony)
+
 <!--
 **Scwaall/Scwaall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
