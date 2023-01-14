@@ -11,14 +11,14 @@ I am a back-end developer specialized in PrestaShop modules and connections with
 
 ### Frameworks
 
-- Symfony (PHP)
+- [Symfony](https://github.com/symfony/symfony)
 
 ### CMS
 
-- PrestaShop (main)
-- WordPress
-- Magento (I hate it)
-- Sylius (based on Symfony)
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop) (main)
+- [WordPress](https://github.com/WordPress/WordPress)
+- [Magento 2](https://github.com/magento/magento2) (I hate it)
+- [Sylius](https://github.com/Sylius/Sylius) (based on [Symfony](https://github.com/symfony/symfony))
 
 <!--
 **Scwaall/Scwaall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
