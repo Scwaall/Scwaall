@@ -15,7 +15,7 @@ I am a back-end developer specialized in PrestaShop modules and connections with
 
 ### CMS
 
-- PrestaShop
+- PrestaShop (main)
 - WordPress
 - Magento (I hate it)
 - Sylius (based on Symfony)
